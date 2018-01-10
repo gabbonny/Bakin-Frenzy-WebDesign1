@@ -1,0 +1,102 @@
+header {
+    border: dashed;
+    color: pink;
+}
+h1 {
+    font-size: 4em;
+    font-family: "Brush Script MT", cursive;
+    color: pink;
+    border: dotted;
+    margin-right: 20em;
+    margin-left: 1em;
+    background-color: white;
+    padding-left: .5em;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+h2{
+    font-size: 2em;
+    font-family: "Times New Roman", Times, serif;
+    margin-left: 2em;
+}
+h3 {
+    font-size: 3em;
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    border: dotted;
+    background-color: #EFA19F;
+    margin-right: 30em;
+    padding: .5em;
+    text-decoration: underline;
+    box-shadow: 10px 10px 5px #888888;
+    position: relative;
+}
+#navi {
+    font-size: 1em;
+}
+body {
+    background-color: #FFF7E4;
+}
+.content {
+   margin-top: 5em; 
+}
+
+a:hover {
+    color: #EE006D;
+}
+#table_desc {
+    font-size: 2em;
+    text-align: center;
+}
+#table_pic {
+    margin: 5em;
+    width: 250px;
+    height: 250px;
+}
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: pink;
+}
+p {
+    font-size: 2em;
+}
+p:hover {
+    color: #8C49FD;
+}
+.food {
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 10px;
+    width: 150px;
+    height: 150px;
+    box-shadow: 5px 5px 3px grey;
+    
+}
+.food:hover { 
+    width: 200px;
+    height: 200px;
+}
+.table_style {
+    text-align: center;
+}
+ol {
+    list-style-type: lower-latin;
+}
+ul {
+    list-style-type: square;
+}
+
+footer {
+    text-align: center;
+}
